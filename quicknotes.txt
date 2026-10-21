@@ -1,1 +1,2 @@
-..
+IPFire web UI runs on port 444 (HTTPS) and port 81 (HTTP)
+
